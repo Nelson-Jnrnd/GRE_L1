@@ -1,0 +1,24 @@
+DirectedGraph@568db2f2 in file G1000_1.txt
+Number of components : 48
+DirectedGraph@7b23ec81 in file G1000_2.txt
+Number of components : 129
+DirectedGraph@6acbcfc0 in file G1000_3.txt
+Number of components : 6
+DirectedGraph@5f184fc6 in file G2000_1.txt
+Number of components : 1
+DirectedGraph@3feba861 in file G2000_2.txt
+Number of components : 367
+DirectedGraph@5b480cf9 in file G2000_3.txt
+Number of components : 12
+DirectedGraph@6f496d9f in file G4000_1.txt
+Number of components : 598
+DirectedGraph@723279cf in file G4000_2.txt
+Number of components : 177
+DirectedGraph@10f87f48 in file G4000_3.txt
+Number of components : 2
+DirectedGraph@b4c966a in file G500_1.txt
+Number of components : 48
+DirectedGraph@2f4d3709 in file G500_2.txt
+Number of components : 73
+DirectedGraph@4e50df2e in file G500_3.txt
+Number of components : 1
