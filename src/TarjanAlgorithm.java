@@ -116,6 +116,18 @@ public class TarjanAlgorithm {
     }
 
 
+    /**
+     * Calculate the number of connected components of directed graphs
+     *
+     * Each graph is stored in a text file whose first line contains two integers.
+     * The first is positive and corresponds to the number n of vertices of the graph, the latter being
+     * numbered from 0 to n − 1. The second is positive or null and corresponds to the number m of arcs
+     * of the graph. The following m rows each define an arc and contain two integers,
+     * the first corresponding to the number of the initial end of the arc and the second to the number
+     * from its final end
+     * 
+     * @param args path to the directory containing all the graphs
+     */
     public static void main(String[] args) {
         if(args.length != 1){
             throw new IllegalArgumentException("Exactly 1 parameter (graphs folder path) is required !");
